@@ -15,7 +15,7 @@ Cached, preprocessed articles were read to obtain tf-idf (term frequency - inver
 * returning N most similar pages for each passed page
 
 ### Statistics  & interpretation
-Our database consists of 5676 articles. For further statistics and interpretation please take a look at src/analyzes.ipynb
+Our database consists of 5676 articles. For further statistics and interpretation please take a look at src/analyzes.html
 ### Usage 
 Create venv and install libraries
 ```
